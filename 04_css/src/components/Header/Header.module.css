@@ -1,0 +1,14 @@
+.btn{
+    background-color:#dadada;
+    color:green;
+    display:flex;
+    
+}
+.head {
+    dispaly:flex;
+    color:red;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+
+}
